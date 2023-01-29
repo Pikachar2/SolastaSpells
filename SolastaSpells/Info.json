@@ -1,0 +1,12 @@
+﻿{
+  "Id": "SolastaSpells",
+  "DisplayName": "Solasta Spells",
+  "Author": "Pikachar",
+  "Version": "1.0.0",
+//  "ManagerVersion": "1.0.0",
+//  "GameVersion": "1.0.0",
+//  "Requirements": ["SomeMod-1.0.0", "AnotherMod"],
+//  "LoadAfter": ["SomeMod", "AnotherMod"],
+  "AssemblyName": "SolastaSpells.dll",
+  "EntryMethod": "SolastaSpells.Main.Load"
+}
